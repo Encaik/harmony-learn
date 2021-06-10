@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "主界面"
+    },
+    {
+      "name": "mainability_description",
+      "value": "JS_Empty Ability"
+    },
+    {
+      "name": "detail_description",
+      "value": "JS_Empty Ability"
+    },
+    {
+      "name": "entry_detail",
+      "value": "entry_detail"
+    }
+  ]
+}
